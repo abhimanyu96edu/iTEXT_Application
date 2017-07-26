@@ -46,3 +46,4 @@ public class ChooseTemplateActivity extends AppCompatActivity {
 
     }
 }
+//ca-app-pub-8555167331089953~8646376868
